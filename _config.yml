@@ -1,0 +1,23 @@
+name: bob hush
+favicon: null
+layout_spectrum: 0.8973154257982969
+typography_spectrum: 0.2707861107774079
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7294721216894686
+  lightness: 0.6801044025924057
+  saturation: 0.324869496980682
+  rhythmicContrast: 0.6812095404602587
+purpose: []
